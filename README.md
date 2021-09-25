@@ -13,4 +13,7 @@ If the vehicles a zone with higher/lower limit the device will automatically cha
 The simulation is done on proteus, the cracked version could be installed using https://we.tl/t-GRDTn5wjxk
 To run the simulation install proteus using the link and run FINAL_DESIGN.pdsprj on proteus and load the hex code to the pic controller
 ![image](https://user-images.githubusercontent.com/40699398/134787083-b9876e94-7bf5-471b-909d-cdd5d3123c71.png)
-and you can change the switches inorder to simulate different speeds
+and you can change the switches inorder to simulate different speedsCancel changes
+
+
+Theworking demo has been recorded, it can be found at https://youtu.be/g7Udmww-yRU
