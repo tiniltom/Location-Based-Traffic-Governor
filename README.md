@@ -6,6 +6,9 @@ However such devices could be set to only a single speed limit and speed limit o
 The proposed system is location based speed governor. The system uses the GPS location to identify the speed limit of the particular location and the speed limit is set accordingly. The speed governor is a simple which could be installed to any vehicle. The speed breaker is directly connected to a central gps system and the engine
 The device gets the real time location of the vehicle using GPS. As the device is connected directly connected to the engine is can maintain the speed in the prescribed limit
 If the vehicles a zone with higher/lower limit the device will automatically change the speed barrier
+The circuit is 
+![image](https://user-images.githubusercontent.com/40699398/134790301-f2b33029-8264-4879-a824-6a12d4e70657.png)
+
 
 **FOR RUNNING**
 
